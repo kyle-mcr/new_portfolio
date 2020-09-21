@@ -1,0 +1,157 @@
+{
+  "main": {
+    "name":"Kyle McReynolds",
+    "occupation":"Web Developer",
+    "description":"I enjoy building everything from small business sites to rich interactive web apps",
+    "image":"profilepic.jpg",
+    "bio":"I am a full stack developer whose background emphasizes communication and interpersonal skills. I use online resources, teamwork and internal drive to accomplish tasks in the most efficient, clean manner available.",
+    "contactmessage":"If you are a business seeking a web presence or an employer looking to hire, please feel free to reach out!",
+    "email": "kylemcreynolds92@gmail.com",
+    "phone": "Please Email Me:",
+    "address":{
+      "street":"Los Gatos",
+      "city":"San Francisco Bay Area",
+      "state":"CA",
+      "zip": "95030"
+    },
+    "website": "http://www.kylemcreynolds-dev.com",
+    "resumedownload":"https://drive.google.com/file/d/1Cs1D1ewRLNehKi4REhA3Zgtvd9Z_9e8v/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/kylemcreynolds1/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"https://www.instagram.com/kmcreynoldz/",
+        "className":"fa fa-instagram"
+      },
+      {
+        "name":"facebook",
+        "url":"mailto:kylemcreynolds92@gmail.com",
+        "className":"fa fa-envelope"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/kyle-mcr",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Below are SOME of the technologeis I use regularly:",
+    "education":[
+       {
+        "school":"Harvard University Extension",
+        "degree":"Certificate - Web Programming w/ Python & Javascript",
+        "graduated":"June 2020",
+        "description":"Deep dive into the design and implementation of web apps with Python, JavaScript, and SQL using frameworks like Django, React, and Bootstrap. Topics include database design, scalability, security, and user experience. Through hands-on projects, I learned to write and use APIs, create interactive UIs, and leverage cloud services like GitHub and Heroku."
+      },
+      {
+        "school":"Coding Dojo",
+        "degree":"Certificate - Full Stack/Web Development",
+        "graduated":"December 2019",
+        "description":"Coding Dojo is an immersive bootcamp where students are taught three full stacks in 16 weeks. I coded 12-14 hours per day totaling well over 1000 hours with a focus on Python, Javascript, & Java. Did a deep dive into the Mean stack, Python/Django stack, and Java/Spring Boot stack. Through hand-on projects, I learned the agile development lifecycle, created REST APIs, and leveraged cloud services like AWS & Github."
+      },
+      {
+        "school":"Sonoma State University",
+        "degree":"B.S. Business - Marketing",
+        "graduated":"June 2015",
+        "description":"Relevant completed courses: Marketing Research, Consumer Behavior, Strategic Marketing Management, Promotional Strategy, Business Statistics, and Global Marketing. Capstone peoject: 'The importance of having a professional looking website where potential customers can get in touch with you 24/7'."
+      }
+    ],
+    "work":[
+      {
+        "company":"developerDB",
+        "title":"Front End Developer",
+        "years":"August 2020 - Present",
+        "description":"Designing and prototyping the front end of the product website. Writing reusable components using Angular, HTML, CSS, TypeScript, and Angular Material for the product website Using HTML, CSS, JavaScript, PHP, and Material Design Bootstrap to implement the company website. Testing and Maintaining the front end part of the marketing and product website."
+      },
+      {
+        "company":"Trash Tracker Inc",
+        "title":"Front End Developer",
+        "years":"December 2019 - March 2020",
+        "description":"Created a proof of concept to share with investors by building a customer facing UI using React leading to additional investment opportunities within a 1 month debut. Created Elasticsearch capabilities by converting 65,000 MySQL data points into a non-relational format and manipulated the data with Pandas in order to create various data visualizations with Kibana & React. Automated deployment of the AWS web server by creating a bash script that runs when the instance boots up."
+      },
+      {
+        "company":"Coding Dojo",
+        "title":"Web Developer",
+        "years":"August 2019 - December 2019",
+        "description":"Coding Dojo teaches students three full stacks in 15 weeks. During each stack we would complete increasingly complex assignments moving from simple routing, through DOM manipulation, RESTful tasks and beyond. These 20 - 30 small projects would culminate in an exam. These exams require students to build a full-stack web-app based on a wire frame within 4.5 hous. My projects can all be viewed on my portfolio site, or GitHub. Finally, during my time at Coding Dojo I participated in 2 - 3 unique and increasingly challenging algorithms each day, learning how to manipulate different data structures including but not limited to binary search trees, singly and doubly linked lists, stacks, and tries."
+      },
+      {
+        "company":"Fetch Roboitcs",
+        "title":"Account Manager",
+        "years":"August 2018 - July 2019",
+        "description":"Parsed through a bucket of 1500+ untouched sales leads by proposing and implementing a new sales automation tool (SalesLoft), which lead to a 20% conversion rate. Hosted and delivered webinars and conference calls to B/C level executives and successfully converted 100+ new opportunities, totaling over $12 million dollars in potential revenue. Directly contacted the VP of automation at my prior company(Sherwin-Williams) and brought a $1.2 million dollar opportunity into fruition"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Git",
+        "level":"70%"
+      },
+      {
+        "name":"Python",
+        "level":"75%"
+      },
+      {
+        "name":"React",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5/CSS",
+        "level":"90%"
+      },
+      {
+        "name":"Angular",
+        "level":"80%"
+      },
+      {
+        "name":"Elasticsearch",
+        "level":"70%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Angles 5000",
+        "category":"A freelance website I made for a hair salon using Angular.",
+        "image":"angles.png",
+        "url":"https://angles5000.com/"
+      },
+      {
+        "title":"On The Spot Recipes",
+        "category":"A website I created that generates dessert recipes based off of ingredients that you have. I used Angular, Express, and Node.",
+        "image":"ots.png",
+        "url":"https://onthespotrecipes.com/"
+      },
+      {
+        "title":"Honorable Mention",
+        "category":"(No longer Deployed) Website I built that can store recommended places to visit and display them on a map. I used Python and Django and the mapbox API",
+        "image":"hm.png",
+        "url":"https://github.com/kyle-mcr/honorable_mention"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website.",
+        "image":"resume-website.png",
+        "url":"https://kylemcreynolds-dev.com/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Kyle was very easy to communicate with and was able to execute exactly what we were looking for in our new website. In the first month we had almost one thousand unique vistiors to our new website and it has drawn in a ton of new business. Thanks Kyle! ",
+        "user":"Owner of Angles5000"
+      }
+    ]
+  }
+}
