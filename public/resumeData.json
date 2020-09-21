@@ -9,8 +9,8 @@
     "email": "kylemcreynolds92@gmail.com",
     "phone": "Please Email Me:",
     "address":{
-      "street":"Los Gatos",
-      "city":"San Francisco Bay Area",
+      "street":"San Francisco Bay Area",
+      "city":"Los Gatos",
       "state":"CA",
       "zip": "95030"
     },
